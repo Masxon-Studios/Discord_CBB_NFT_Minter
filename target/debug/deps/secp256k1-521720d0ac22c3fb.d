@@ -1,0 +1,12 @@
+/home/shki/discord_badge_minter/target/debug/deps/libsecp256k1-521720d0ac22c3fb.rmeta: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/macros.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/context.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/constants.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/ecdh.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/key.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/schnorrsig.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/recovery.rs
+
+/home/shki/discord_badge_minter/target/debug/deps/secp256k1-521720d0ac22c3fb.d: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/macros.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/context.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/constants.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/ecdh.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/key.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/schnorrsig.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/recovery.rs
+
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/lib.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/macros.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/context.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/constants.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/ecdh.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/key.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/schnorrsig.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-0.20.3/src/recovery.rs:

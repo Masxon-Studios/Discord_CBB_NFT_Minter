@@ -1,0 +1,11 @@
+/home/shki/discord_badge_minter/target/debug/deps/libpoise_macros-6aa8210b75a63812.so: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/choice_parameter.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/mod.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/prefix.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/slash.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/modal.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/util.rs
+
+/home/shki/discord_badge_minter/target/debug/deps/poise_macros-6aa8210b75a63812.d: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/choice_parameter.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/mod.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/prefix.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/slash.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/modal.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/util.rs
+
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/lib.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/choice_parameter.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/mod.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/prefix.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/command/slash.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/modal.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/poise_macros-0.6.1/src/util.rs:
