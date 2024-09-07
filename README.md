@@ -46,7 +46,7 @@ Example:
 
 bash
 Copy code
-!mintbadge Username 0x1234... Admin
+!mintbadge @Username 0x1234... Admin
 This command will mint an NFT badge to the specified wallet address with the role of "Admin" and include the user's Discord name in the process.
 
 Contributing
