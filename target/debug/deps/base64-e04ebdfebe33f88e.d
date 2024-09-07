@@ -1,0 +1,12 @@
+/home/shki/discord_badge_minter/target/debug/deps/libbase64-e04ebdfebe33f88e.rmeta: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/home/shki/discord_badge_minter/target/debug/deps/base64-e04ebdfebe33f88e.d: /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs:
+/home/shki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs:

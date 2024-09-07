@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/shki/discord_badge_minter/target/debug/build/mime_guess-85c4c0d9e829df2b/out/mime_types_generated.rs

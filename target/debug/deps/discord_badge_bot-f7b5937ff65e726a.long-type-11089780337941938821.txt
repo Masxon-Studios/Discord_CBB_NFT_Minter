@@ -1,0 +1,1 @@
+std::pin::Pin<Box<dyn std::future::Future<Output = Result<(), FrameworkError<'_, (), Box<dyn std::error::Error + std::marker::Send + Sync>>>> + std::marker::Send>>
